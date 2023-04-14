@@ -1,0 +1,8 @@
+67259a7ef36ddc0250b30cdf720a4140
+
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+RV2KRT-2RRAEG32LK   // wolframalpha api id ankit2001 password username Ankit Singh Application name jarvis
